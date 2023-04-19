@@ -1,1 +1,1 @@
-# Hello, my name is Grigory
+# Hello, my name is Gregory
